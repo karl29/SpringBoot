@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  *@author Karl.Qin
- *@version 创建时间：2017年10月11日 下午4:57:07
  */
 @Controller
 @EnableAutoConfiguration
